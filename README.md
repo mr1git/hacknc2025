@@ -8,6 +8,8 @@ The system acts as an intelligent assistant that guides users through account
 creation, automatically fills required fields, and responds via both text and
 audio.
 
+Project is done by: Marwan Abdelgawad (mr1git), Aniketh Arvind (AniA13), Arav Khullar, Aida
+
 ---
 
 ## Problem
