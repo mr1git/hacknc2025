@@ -103,6 +103,42 @@ While not production-ready, it demonstrates:
 
 ---
 
+
+## Running the Project (Optional)
+
+This project is a hackathon prototype and requires API keys to run fully.
+
+### Prerequisites
+- Node.js (v18+ recommended)
+- API keys for:
+  - Gemini
+  - ElevenLabs
+
+### Setup
+
+```
+npm install
+```
+
+Create a .env.local file:
+
+```
+GEMINI_API_KEY=your_key_here
+ELEVENLABS_API_KEY=your_key_here
+```
+
+Run
+
+```
+npm run dev
+```
+The app will be available at:
+```
+http://localhost:3000
+```
+
+---
+
 ## Notes
 
 This repository reflects a prototype developed under hackathon constraints.
